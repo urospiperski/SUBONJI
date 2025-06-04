@@ -1,0 +1,11 @@
+C:\Users\skola\source\repos\A13_DVDKolekcija_Priprema\bin\Debug\A13_DVDKolekcija_Priprema.exe.config
+C:\Users\skola\source\repos\A13_DVDKolekcija_Priprema\bin\Debug\A13_DVDKolekcija_Priprema.exe
+C:\Users\skola\source\repos\A13_DVDKolekcija_Priprema\bin\Debug\A13_DVDKolekcija_Priprema.pdb
+C:\Users\skola\source\repos\A13_DVDKolekcija_Priprema\obj\Debug\A13_DVDKolekcija_Priprema.csproj.AssemblyReference.cache
+C:\Users\skola\source\repos\A13_DVDKolekcija_Priprema\obj\Debug\A13_DVDKolekcija_Priprema.Form1.resources
+C:\Users\skola\source\repos\A13_DVDKolekcija_Priprema\obj\Debug\A13_DVDKolekcija_Priprema.Properties.Resources.resources
+C:\Users\skola\source\repos\A13_DVDKolekcija_Priprema\obj\Debug\A13_DVDKolekcija_Priprema.csproj.GenerateResource.cache
+C:\Users\skola\source\repos\A13_DVDKolekcija_Priprema\obj\Debug\A13_DVDKolekcija_Priprema.csproj.CoreCompileInputs.cache
+C:\Users\skola\source\repos\A13_DVDKolekcija_Priprema\obj\Debug\A13_DVDKolekcija_Priprema.exe
+C:\Users\skola\source\repos\A13_DVDKolekcija_Priprema\obj\Debug\A13_DVDKolekcija_Priprema.pdb
+C:\Users\skola\source\repos\A13_DVDKolekcija_Priprema\obj\Debug\A13_DVDKolekcija_Priprema.Form2.resources
