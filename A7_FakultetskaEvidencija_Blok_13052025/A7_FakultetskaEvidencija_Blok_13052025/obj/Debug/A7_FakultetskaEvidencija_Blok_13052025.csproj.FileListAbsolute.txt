@@ -1,0 +1,12 @@
+C:\Users\skola\source\repos\A7_FakultetskaEvidencija_Blok_13052025\bin\Debug\A7_FakultetskaEvidencija_Blok_13052025.exe.config
+C:\Users\skola\source\repos\A7_FakultetskaEvidencija_Blok_13052025\bin\Debug\A7_FakultetskaEvidencija_Blok_13052025.exe
+C:\Users\skola\source\repos\A7_FakultetskaEvidencija_Blok_13052025\bin\Debug\A7_FakultetskaEvidencija_Blok_13052025.pdb
+C:\Users\skola\source\repos\A7_FakultetskaEvidencija_Blok_13052025\obj\Debug\A7_FakultetskaEvidencija_Blok_13052025.csproj.AssemblyReference.cache
+C:\Users\skola\source\repos\A7_FakultetskaEvidencija_Blok_13052025\obj\Debug\A7_FakultetskaEvidencija_Blok_13052025.Form1.resources
+C:\Users\skola\source\repos\A7_FakultetskaEvidencija_Blok_13052025\obj\Debug\A7_FakultetskaEvidencija_Blok_13052025.Properties.Resources.resources
+C:\Users\skola\source\repos\A7_FakultetskaEvidencija_Blok_13052025\obj\Debug\A7_FakultetskaEvidencija_Blok_13052025.csproj.GenerateResource.cache
+C:\Users\skola\source\repos\A7_FakultetskaEvidencija_Blok_13052025\obj\Debug\A7_FakultetskaEvidencija_Blok_13052025.csproj.CoreCompileInputs.cache
+C:\Users\skola\source\repos\A7_FakultetskaEvidencija_Blok_13052025\obj\Debug\A7_FakultetskaEvidencija_Blok_13052025.exe
+C:\Users\skola\source\repos\A7_FakultetskaEvidencija_Blok_13052025\obj\Debug\A7_FakultetskaEvidencija_Blok_13052025.pdb
+C:\Users\skola\source\repos\A7_FakultetskaEvidencija_Blok_13052025\obj\Debug\A7_FakultetskaEvidencija_Blok_13052025.Form2.resources
+C:\Users\skola\source\repos\A7_FakultetskaEvidencija_Blok_13052025\obj\Debug\A7_FakultetskaEvidencija_Blok_13052025.Form3.resources
