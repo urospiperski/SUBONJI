@@ -1,0 +1,11 @@
+C:\Users\skola\source\repos\A11EvidencijaKnjiga_Priprema\bin\Debug\A11EvidencijaKnjiga_Priprema.exe.config
+C:\Users\skola\source\repos\A11EvidencijaKnjiga_Priprema\bin\Debug\A11EvidencijaKnjiga_Priprema.exe
+C:\Users\skola\source\repos\A11EvidencijaKnjiga_Priprema\bin\Debug\A11EvidencijaKnjiga_Priprema.pdb
+C:\Users\skola\source\repos\A11EvidencijaKnjiga_Priprema\obj\Debug\A11EvidencijaKnjiga_Priprema.csproj.AssemblyReference.cache
+C:\Users\skola\source\repos\A11EvidencijaKnjiga_Priprema\obj\Debug\A11EvidencijaKnjiga_Priprema.Form1.resources
+C:\Users\skola\source\repos\A11EvidencijaKnjiga_Priprema\obj\Debug\A11EvidencijaKnjiga_Priprema.Properties.Resources.resources
+C:\Users\skola\source\repos\A11EvidencijaKnjiga_Priprema\obj\Debug\A11EvidencijaKnjiga_Priprema.csproj.GenerateResource.cache
+C:\Users\skola\source\repos\A11EvidencijaKnjiga_Priprema\obj\Debug\A11EvidencijaKnjiga_Priprema.csproj.CoreCompileInputs.cache
+C:\Users\skola\source\repos\A11EvidencijaKnjiga_Priprema\obj\Debug\A11EvidencijaKnjiga_Priprema.exe
+C:\Users\skola\source\repos\A11EvidencijaKnjiga_Priprema\obj\Debug\A11EvidencijaKnjiga_Priprema.pdb
+C:\Users\skola\source\repos\A11EvidencijaKnjiga_Priprema\obj\Debug\A11EvidencijaKnjiga_Priprema.Form2.resources
