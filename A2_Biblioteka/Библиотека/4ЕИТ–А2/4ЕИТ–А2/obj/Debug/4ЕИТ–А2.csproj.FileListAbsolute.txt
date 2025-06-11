@@ -1,0 +1,11 @@
+C:\Users\andre\Desktop\Библиотека\4ЕИТ–А2\4ЕИТ–А2\bin\Debug\4ЕИТ–А2.exe.config
+C:\Users\andre\Desktop\Библиотека\4ЕИТ–А2\4ЕИТ–А2\bin\Debug\4ЕИТ–А2.exe
+C:\Users\andre\Desktop\Библиотека\4ЕИТ–А2\4ЕИТ–А2\bin\Debug\4ЕИТ–А2.pdb
+C:\Users\andre\Desktop\Библиотека\4ЕИТ–А2\4ЕИТ–А2\obj\Debug\4ЕИТ–А2.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\Библиотека\4ЕИТ–А2\4ЕИТ–А2\obj\Debug\_4ЕИТ_А2.Form1.resources
+C:\Users\andre\Desktop\Библиотека\4ЕИТ–А2\4ЕИТ–А2\obj\Debug\_4ЕИТ_А2.Properties.Resources.resources
+C:\Users\andre\Desktop\Библиотека\4ЕИТ–А2\4ЕИТ–А2\obj\Debug\4ЕИТ–А2.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\Библиотека\4ЕИТ–А2\4ЕИТ–А2\obj\Debug\4ЕИТ–А2.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Библиотека\4ЕИТ–А2\4ЕИТ–А2\obj\Debug\4ЕИТ–А2.exe
+C:\Users\andre\Desktop\Библиотека\4ЕИТ–А2\4ЕИТ–А2\obj\Debug\4ЕИТ–А2.pdb
+C:\Users\andre\Desktop\Библиотека\4ЕИТ–А2\4ЕИТ–А2\obj\Debug\_4ЕИТ_А2.Form2.resources
