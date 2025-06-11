@@ -1,0 +1,11 @@
+C:\Users\andre\Desktop\Евиденција радника\4ЕИТ–А3\4ЕИТ–А3\bin\Debug\4ЕИТ–А3.exe.config
+C:\Users\andre\Desktop\Евиденција радника\4ЕИТ–А3\4ЕИТ–А3\bin\Debug\4ЕИТ–А3.exe
+C:\Users\andre\Desktop\Евиденција радника\4ЕИТ–А3\4ЕИТ–А3\bin\Debug\4ЕИТ–А3.pdb
+C:\Users\andre\Desktop\Евиденција радника\4ЕИТ–А3\4ЕИТ–А3\obj\Debug\4ЕИТ–А3.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\Евиденција радника\4ЕИТ–А3\4ЕИТ–А3\obj\Debug\_4ЕИТ_А3.Form1.resources
+C:\Users\andre\Desktop\Евиденција радника\4ЕИТ–А3\4ЕИТ–А3\obj\Debug\_4ЕИТ_А3.Properties.Resources.resources
+C:\Users\andre\Desktop\Евиденција радника\4ЕИТ–А3\4ЕИТ–А3\obj\Debug\4ЕИТ–А3.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\Евиденција радника\4ЕИТ–А3\4ЕИТ–А3\obj\Debug\4ЕИТ–А3.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Евиденција радника\4ЕИТ–А3\4ЕИТ–А3\obj\Debug\4ЕИТ–А3.exe
+C:\Users\andre\Desktop\Евиденција радника\4ЕИТ–А3\4ЕИТ–А3\obj\Debug\4ЕИТ–А3.pdb
+C:\Users\andre\Desktop\Евиденција радника\4ЕИТ–А3\4ЕИТ–А3\obj\Debug\_4ЕИТ_А3.Form2.resources
