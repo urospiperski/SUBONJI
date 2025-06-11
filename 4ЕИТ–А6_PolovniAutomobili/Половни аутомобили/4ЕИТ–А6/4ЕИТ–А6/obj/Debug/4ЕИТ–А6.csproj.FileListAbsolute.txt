@@ -1,0 +1,11 @@
+C:\Users\andre\Desktop\Половни аутомобили\4ЕИТ–А6\4ЕИТ–А6\bin\Debug\4ЕИТ–А6.exe.config
+C:\Users\andre\Desktop\Половни аутомобили\4ЕИТ–А6\4ЕИТ–А6\bin\Debug\4ЕИТ–А6.exe
+C:\Users\andre\Desktop\Половни аутомобили\4ЕИТ–А6\4ЕИТ–А6\bin\Debug\4ЕИТ–А6.pdb
+C:\Users\andre\Desktop\Половни аутомобили\4ЕИТ–А6\4ЕИТ–А6\obj\Debug\4ЕИТ–А6.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\Половни аутомобили\4ЕИТ–А6\4ЕИТ–А6\obj\Debug\_4ЕИТ_А6.Form1.resources
+C:\Users\andre\Desktop\Половни аутомобили\4ЕИТ–А6\4ЕИТ–А6\obj\Debug\_4ЕИТ_А6.Properties.Resources.resources
+C:\Users\andre\Desktop\Половни аутомобили\4ЕИТ–А6\4ЕИТ–А6\obj\Debug\4ЕИТ–А6.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\Половни аутомобили\4ЕИТ–А6\4ЕИТ–А6\obj\Debug\4ЕИТ–А6.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Половни аутомобили\4ЕИТ–А6\4ЕИТ–А6\obj\Debug\4ЕИТ–А6.exe
+C:\Users\andre\Desktop\Половни аутомобили\4ЕИТ–А6\4ЕИТ–А6\obj\Debug\4ЕИТ–А6.pdb
+C:\Users\andre\Desktop\Половни аутомобили\4ЕИТ–А6\4ЕИТ–А6\obj\Debug\_4ЕИТ_А6.Form2.resources
