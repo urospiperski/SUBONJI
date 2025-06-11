@@ -1,0 +1,11 @@
+C:\Users\andre\Desktop\Продужени боравак\4ЕИТ–А5\4ЕИТ–А5\bin\Debug\4ЕИТ–А5.exe.config
+C:\Users\andre\Desktop\Продужени боравак\4ЕИТ–А5\4ЕИТ–А5\bin\Debug\4ЕИТ–А5.exe
+C:\Users\andre\Desktop\Продужени боравак\4ЕИТ–А5\4ЕИТ–А5\bin\Debug\4ЕИТ–А5.pdb
+C:\Users\andre\Desktop\Продужени боравак\4ЕИТ–А5\4ЕИТ–А5\obj\Debug\4ЕИТ–А5.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\Продужени боравак\4ЕИТ–А5\4ЕИТ–А5\obj\Debug\_4ЕИТ_А5.Form1.resources
+C:\Users\andre\Desktop\Продужени боравак\4ЕИТ–А5\4ЕИТ–А5\obj\Debug\_4ЕИТ_А5.Form2.resources
+C:\Users\andre\Desktop\Продужени боравак\4ЕИТ–А5\4ЕИТ–А5\obj\Debug\_4ЕИТ_А5.Properties.Resources.resources
+C:\Users\andre\Desktop\Продужени боравак\4ЕИТ–А5\4ЕИТ–А5\obj\Debug\4ЕИТ–А5.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\Продужени боравак\4ЕИТ–А5\4ЕИТ–А5\obj\Debug\4ЕИТ–А5.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Продужени боравак\4ЕИТ–А5\4ЕИТ–А5\obj\Debug\4ЕИТ–А5.exe
+C:\Users\andre\Desktop\Продужени боравак\4ЕИТ–А5\4ЕИТ–А5\obj\Debug\4ЕИТ–А5.pdb
